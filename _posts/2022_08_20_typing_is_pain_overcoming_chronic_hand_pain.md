@@ -4,7 +4,7 @@ categories: [pain, health, typing]
 tags: [pain, health, typing]
 ---
 
-It could have beeen a laptop or computer keyboard or mouse. Either an ergonomic or horizontal mouse. I even tried a keyboard tray with an adjustable height. At some point, it doesn’t matter what the tool is: so long as it involves some variation of a physical keyboard and mouse, I would experience pain.
+It could have beeen a laptop or computer keyboard or mouse. Even an ergonomic or horizontal mouse. I even tried a keyboard tray with an adjustable height. At some point, it didn’t matter what the tool was: so long as it involved some variation of a physical keyboard and mouse, I would experience pain.
 
 This problem started sometime after summer of 2018. During that summer I built my first gaming PC. By the time September rolled around, I was experiencing pain while playing games. But I soon learned it wasn’t just when playing games: it would come back even after using the computer for a few minutes. Typing essays and doing homework became even more painful. I switched to and from my PC and my MacBook to figure out if there was a setup that wouldn’t cause pain. Unfortunately, it’s been a year and a half since the pain started, and I have yet to find a solution.
 
@@ -13,8 +13,10 @@ Why has it taken so long? Well, the pain is inconsistent: some days are better t
 I had already seen two doctors about the pain and had an ERG study by this point. They didn’t think I had carpal tunnel or arthritis. The doctors expected ergonomics to be the main culprit. While I spent a few weeks trying to get an ergonomic study at work (we love beuacracy), I tried to reinforce basic ergonomic principles on myself: feet firmly on the ground, back straight, arms at a 90 degree angle. 
 
 When I eventually saw the ergonomist, she recommended a new chair, keyboard, mouse, and raising my monitors. She also encouraged regular breaks throughout the day so I could let my hands rest for a few minutes. These adjustments held me over for a little bit, but the pain was still present at a lower level.
-Then, in spring of 2021, my hands gave out. The pain became too much to bear and I could not get work done. I used short term disability leave and started to see an occupational hand therapist. At some points, the pain was so bad that using my phone was painful. Swiping on the screen or holding it for too long would become unbearable.
-After a few months, I was able to manage the pain myself through breaks and stretching exercises. Today, I keep that up with stretching occasionally and routine breaks, along with a daily warmup for my hands before I start work on the computer.
+Then, in spring of 2021, my hands gave out. The pain became too much to bear and I just couldn't work. I used short term disability leave and started to see an occupational hand therapist. At some points, the pain was so bad that using my phone was painful. Swiping on the screen or holding it for too long would become unbearable.
+After a few months of hand therapy, I was able to manage the pain myself through breaks and stretching exercises. Today, a year later, I keep that up with stretching occasionally and routine breaks, along with a daily warmup for my hands before I start work on the computer. This consists of a ring grip exerciser and resistance band for fingers ([Amazon Link](https://www.amazon.com/gp/product/B07G824Z3V/))
+
+Here are some tips I learned through my experience with pain at the computer:
 
 # Hands
 * Avoid resting hands on keyboard, lap, or wrist rest (this could compress the ulnar or median nerves)
@@ -29,7 +31,8 @@ After a few months, I was able to manage the pain myself through breaks and stre
 * When holding a phone in your hand, do not use your pinky to support it from the bottom (stresses ulnar nerve)
 
 # Eyes
-* 20/20/20: Look 20 feet away for 20 seconds every 20 minutes to relax the muscles in your eyes
+* 20/20/20 rule: Look 20 feet away for 20 seconds every 20 minutes to relax the muscles in your eyes
+* Try Blue Light Glasses if that doesn't help. Make sure to mention it to your eye doctor at your yearly eye exam (also very important if you're staring at screens all day, which is practically everyone)
 
 # Keyboards and Mouse
 * Your mileage may vary, but I've had the best luck with the [Kinesis Freestyle Pro](https://wiki.www.uprr.com/confluence/pages/viewpage.action?pageId=189113913) with tenting. Having a tilted keyboard is a more natural position for the hands, and the split keyboard prevent awkward wrist bending.
