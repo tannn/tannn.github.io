@@ -17,7 +17,7 @@ I had been hearing about [spec-driven development](https://github.blog/ai-and-ml
 
 ![Image of initial version of FreeThoughts](/assets/images/freethoughts.png)
 
-The results were surprisingly good. A few bugs and some polishing were needed, but it got me 70% of the way there. The results were buggy and imperfect - but working versions that let me play with the idea and iterate. The cost of making a prototype or POC is now almost free. 
+The results were surprisingly good. A few bugs and some polishing were needed, but it got me 70% of the way there. The rapp was buggy and imperfect - but it was a working version that let me play with the idea and iterate. The cost of making a prototype or POC is now almost free. 
 
 # Phase 3: Embrace the Pivot
 My next idea took the same concept for AI prompts and extended it beyond documents. Users should be able to view prompts everywhere on their screen, no PDFs needed.
