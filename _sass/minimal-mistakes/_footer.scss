@@ -50,6 +50,25 @@
 }
 
 .page__footer-subscribe {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  align-items: center;
+  padding: 0;
+  background: transparent;
+
+  input {
+    flex: 1 1 14rem;
+    margin: 0;
+    border-radius: 999px;
+  }
+
+  .btn {
+    margin: 0;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+
   @include breakpoint($large) {
     max-width: 50%;
   }
