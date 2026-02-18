@@ -1,8 +1,6 @@
 ---
 title: "A researcher wouldn't release his app. I recreated it in less than a week"
 categories: [AI,coding,building]
-redirect_from:
-  - /2026/Built-Three-Apps-One-Week/
 ---
 Last week, I watched a [TED talk](https://www.youtube.com/watch?v=3lPnN8omdPA) about an AI tool that challenges readers to think critically. The researcher never released it. So I built it myself (and then, two other apps) without writing a single line of code. I'm a Java backend developer who's never built an app before.
 
