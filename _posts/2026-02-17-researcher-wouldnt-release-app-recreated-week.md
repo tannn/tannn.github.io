@@ -1,8 +1,8 @@
 ---
-title: "I built 3 apps in a week"
+title: "A researcher wouldn’t release his app. I recreated it in less than a week"
 categories: [AI,coding,building]
 ---
-Last week, I watched a [TED talk](https://www.youtube.com/watch?v=3lPnN8omdPA) about an AI tool that challenges readers to think critically. The researcher never released it. So I built it myself (and then, two other apps) without writing a single line of code. I'm a Java backend developer who's never built a native Mac app before.
+Last week, I watched a [TED talk](https://www.youtube.com/watch?v=3lPnN8omdPA) about an AI tool that challenges readers to think critically. The researcher never released it. So I built it myself (and then, two other apps) without writing a single line of code. I'm a Java backend developer who's never built an app before.
 
 # Phase 1: Let’s build an app blind
 In the talk, Advait Sarkar discussed developing a research prototype that encouraged readers to think critically through AI prompts. Immediately, this idea stood out to me as a fascinating tool. Except, they didn’t release it. A few weeks later, I stumbled upon the video again. This time, I realized I didn’t need them to release it. I could build it myself - despite having never built an app before.
