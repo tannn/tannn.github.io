@@ -17,7 +17,7 @@ I had been hearing about [spec-driven development](https://github.blog/ai-and-ml
 
 ![Image of initial version of FreeThoughts](/assets/images/freethoughts.png)
 
-The results were surprisingly good. A few bugs and some polishing were needed, but it got me 70% of the way there. The rapp was buggy and imperfect - but it was a working version that let me play with the idea and iterate. The cost of making a prototype or POC is now almost free. 
+The results were surprisingly good. A few bugs and some polishing were needed, but it got me 70% of the way there. This was finally looking like something I could use and release. The app was buggy and imperfect - but it was a working version that let me play with the idea and iterate. The cost of making a prototype or POC is now almost free. 
 
 # Phase 3: Embrace the Pivot
 My next idea took the same concept for AI prompts and extended it beyond documents. Users should be able to view prompts everywhere on their screen, no PDFs needed.
@@ -32,4 +32,4 @@ Final versions of these projects were only 70% of the way to being "finished", w
 
 Second is the spec. Details matter. Any gaps in the specification leaves room for the agents to fill in on their own. If they make a different decision than what you want, that’s something you’ll need to correct. More often than not, I found myself needing to correct some of the decisions the agents made. For example, in the FreeThinker app, the agent made its own GlobalHotkeyService, instead of using a standard library like KeyboardShortcuts. There were also several UI tweaks I made to make the project look more polished. Your taste still matters; you know your vision, and agents aren’t going to replicate your taste for you.
 
-AI can now do 70% of the coding on a project. With better specs and a way to verify, will it get to 80%? 90%? Dario (CEO of Anthropic) [expects](https://www.youtube.com/watch?v=n1E9IZfvGMA&t=804s) AI to do SWE jobs 100% end to end by the end of the year. There’s still a ways to go, but the real bottleneck isn't coding. It's a clear vision and purpose.
+AI can now do 70% of the coding on a project. With better specs and a way to verify, will it get to 80%? 90%? Dario (CEO of Anthropic) [expects](https://www.youtube.com/watch?v=n1E9IZfvGMA&t=804s) AI to do software engineering jobs 100% end to end by the end of the year. There’s still a ways to go, but the real bottleneck isn't coding. It's a clear vision and purpose.
